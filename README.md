@@ -1,14 +1,14 @@
 - Problem Statement
-The bank provides financial services/products such as savings accounts, current accounts, debit cards, etc. to its customers. In order to increase its overall revenue, the bank conducts various marketing campaigns for its financial products such as credit cards, term deposits, loans, etc. These campaigns are intended for the bank’s existing customers. However, the marketing campaigns need to be cost-efficient so that the bank not only increases their overall revenues but also the total profit. You need to apply your knowledge of EDA on the given dataset to analyse the patterns and provide inferences/solutions for the future marketing campaign.
+-The bank provides financial services/products such as savings accounts, current accounts, debit cards, etc. to its customers. In order to increase its overall revenue, the bank conducts various marketing campaigns for its financial products such as credit cards, term deposits, loans, etc. These campaigns are intended for the bank’s existing customers. However, the marketing campaigns need to be cost-efficient so that the bank not only increases their overall revenues but also the total profit. You need to apply your knowledge of EDA on the given dataset to analyse the patterns and provide inferences/solutions for the future marketing campaign.
 Your target is to do end to end EDA on this bank telemarketing campaign data set to infer knowledge that where bank has to put more effort to improve it's positive response rate.
 
-In This project first i import the libraries(pandas, numpy, matplotlit.pyplot, seabort).
-Read the file and chek the first few rows of the dataframe.
-start the data cleaning by Fixing the Rows and Columns.
-Delete summary rows: Total and Subtotal rows.
-Delete incorrect rows: Header row and footer row.
-Delete extra rows: Column number, indicators, Blank rows, Page No.
-Change the types of the column according to the needs.
+-In This project first i import the libraries(pandas, numpy, matplotlit.pyplot, seabort).
+-Read the file and chek the first few rows of the dataframe.
+-start the data cleaning by Fixing the Rows and Columns.
+-Delete summary rows: Total and Subtotal rows.
+-Delete incorrect rows: Header row and footer row.
+-Delete extra rows: Column number, indicators, Blank rows, Page No.
+-Change the types of the column according to the needs.
 
 Impute/Remove missing values
 
